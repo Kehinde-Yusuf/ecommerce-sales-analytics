@@ -1,0 +1,810 @@
+[
+  {
+    "order_id": 1,
+    "product_id": 79,
+    "amount_paid": "\u20a61,809,100",
+    "quantity_purchased": 10,
+    "customer_id": 95,
+    "order_date": "11/02/2024"
+  },
+  {
+    "order_id": 2,
+    "product_id": 75,
+    "amount_paid": "\u20a6361,780.00",
+    "quantity_purchased": 1,
+    "customer_id": 40,
+    "order_date": "28 Feb 2024"
+  },
+  {
+    "order_id": 3,
+    "product_id": 80,
+    "amount_paid": "NGN 862,940",
+    "quantity_purchased": 13,
+    "customer_id": 100,
+    "order_date": "2025-04-29"
+  },
+  {
+    "order_id": 4,
+    "product_id": 65,
+    "amount_paid": "NGN 2,439,200",
+    "quantity_purchased": 16,
+    "customer_id": 100,
+    "order_date": "24/06/2025"
+  },
+  {
+    "order_id": 5,
+    "product_id": 59,
+    "amount_paid": "NGN 3,394,820",
+    "quantity_purchased": 11,
+    "customer_id": 69,
+    "order_date": "24/04/2025"
+  },
+  {
+    "order_id": 6,
+    "product_id": 29,
+    "amount_paid": "\u20a62,263,400",
+    "quantity_purchased": 10,
+    "customer_id": 39,
+    "order_date": "08/05/2025"
+  },
+  {
+    "order_id": 7,
+    "product_id": 49,
+    "amount_paid": "2022720.0",
+    "quantity_purchased": 12,
+    "customer_id": 51,
+    "order_date": "2025-09-02"
+  },
+  {
+    "order_id": 8,
+    "product_id": 69,
+    "amount_paid": "2304270.0",
+    "quantity_purchased": 9,
+    "customer_id": 35,
+    "order_date": "21/02/2025"
+  },
+  {
+    "order_id": 9,
+    "product_id": 61,
+    "amount_paid": "833450.0",
+    "quantity_purchased": 5,
+    "customer_id": 13,
+    "order_date": "16 Dec 2024"
+  },
+  {
+    "order_id": 10,
+    "product_id": 37,
+    "amount_paid": "496120.0",
+    "quantity_purchased": 2,
+    "customer_id": 83,
+    "order_date": "01/09/2023"
+  },
+  {
+    "order_id": 11,
+    "product_id": 5,
+    "amount_paid": " \u20a6907,680 ",
+    "quantity_purchased": 16,
+    "customer_id": 51,
+    "order_date": ""
+  },
+  {
+    "order_id": 12,
+    "product_id": 83,
+    "amount_paid": "\u20a6481,600",
+    "quantity_purchased": 16,
+    "customer_id": 70,
+    "order_date": "10/17/2023"
+  },
+  {
+    "order_id": 13,
+    "product_id": 95,
+    "amount_paid": "NGN 645,000",
+    "quantity_purchased": 10,
+    "customer_id": 44,
+    "order_date": "2025-07-16"
+  },
+  {
+    "order_id": 14,
+    "product_id": 18,
+    "amount_paid": "2067230.0",
+    "quantity_purchased": 11,
+    "customer_id": 999,
+    "order_date": "2023-06-08"
+  },
+  {
+    "order_id": 15,
+    "product_id": 31,
+    "amount_paid": "\u20a6930,880",
+    "quantity_purchased": 4,
+    "customer_id": 8,
+    "order_date": "2023-11-12"
+  },
+  {
+    "order_id": 16,
+    "product_id": 79,
+    "amount_paid": "\u20a61,447,280.00",
+    "quantity_purchased": 8,
+    "customer_id": 29,
+    "order_date": "2024-10-03"
+  },
+  {
+    "order_id": 17,
+    "product_id": 28,
+    "amount_paid": "752960.0",
+    "quantity_purchased": 8,
+    "customer_id": 98,
+    "order_date": "02/01/2025"
+  },
+  {
+    "order_id": 18,
+    "product_id": 65,
+    "amount_paid": "762250.0",
+    "quantity_purchased": 5,
+    "customer_id": 26,
+    "order_date": "2025-10-23"
+  },
+  {
+    "order_id": 19,
+    "product_id": 66,
+    "amount_paid": "\u20a65,185,800.00",
+    "quantity_purchased": 15,
+    "customer_id": 54,
+    "order_date": "2024-12-25"
+  },
+  {
+    "order_id": 20,
+    "product_id": 45,
+    "amount_paid": "96150.0",
+    "quantity_purchased": 3,
+    "customer_id": 90,
+    "order_date": "02 Aug 2023"
+  },
+  {
+    "order_id": 21,
+    "product_id": 83,
+    "amount_paid": " \u20a6361,200 ",
+    "quantity_purchased": 12,
+    "customer_id": 54,
+    "order_date": "2024-06-27"
+  },
+  {
+    "order_id": 22,
+    "product_id": 16,
+    "amount_paid": "\u20a61,035,450.00",
+    "quantity_purchased": 13,
+    "customer_id": 23,
+    "order_date": "16 Jun 2025"
+  },
+  {
+    "order_id": 23,
+    "product_id": 30,
+    "amount_paid": "\u20a62,936,400.00",
+    "quantity_purchased": 15,
+    "customer_id": 32,
+    "order_date": "2024-03-10"
+  },
+  {
+    "order_id": 24,
+    "product_id": 31,
+    "amount_paid": "NGN 698,160",
+    "quantity_purchased": 3,
+    "customer_id": 27,
+    "order_date": "2023-07-06"
+  },
+  {
+    "order_id": 25,
+    "product_id": 100,
+    "amount_paid": " \u20a6152,700 ",
+    "quantity_purchased": 5,
+    "customer_id": 8,
+    "order_date": "2024-03-24"
+  },
+  {
+    "order_id": 26,
+    "product_id": 85,
+    "amount_paid": " \u20a656,000 ",
+    "quantity_purchased": 8,
+    "customer_id": 67,
+    "order_date": "2024-03-09"
+  },
+  {
+    "order_id": 27,
+    "product_id": 83,
+    "amount_paid": "\u20a6391,300",
+    "quantity_purchased": 13,
+    "customer_id": 86,
+    "order_date": "23/04/2024"
+  },
+  {
+    "order_id": 28,
+    "product_id": 19,
+    "amount_paid": "687480.0",
+    "quantity_purchased": 2,
+    "customer_id": 60,
+    "order_date": "2024-08-01"
+  },
+  {
+    "order_id": 29,
+    "product_id": 93,
+    "amount_paid": "24740.0",
+    "quantity_purchased": 2,
+    "customer_id": 25,
+    "order_date": "21/04/2025"
+  },
+  {
+    "order_id": 30,
+    "product_id": 43,
+    "amount_paid": "303960.0",
+    "quantity_purchased": 1,
+    "customer_id": 39,
+    "order_date": "13 Dec 2023"
+  },
+  {
+    "order_id": 31,
+    "product_id": 71,
+    "amount_paid": "\u20a61,780,400",
+    "quantity_purchased": 10,
+    "customer_id": 42,
+    "order_date": "29/11/2024"
+  },
+  {
+    "order_id": 32,
+    "product_id": 41,
+    "amount_paid": "1206480.0",
+    "quantity_purchased": 12,
+    "customer_id": 27,
+    "order_date": "2023-07-18"
+  },
+  {
+    "order_id": 33,
+    "product_id": 43,
+    "amount_paid": "NGN 3,951,480",
+    "quantity_purchased": 13,
+    "customer_id": 30,
+    "order_date": "2024-02-08"
+  },
+  {
+    "order_id": 34,
+    "product_id": 22,
+    "amount_paid": "1980960.0",
+    "quantity_purchased": 12,
+    "customer_id": 94,
+    "order_date": "2025-06-08"
+  },
+  {
+    "order_id": 35,
+    "product_id": 86,
+    "amount_paid": "146590.0",
+    "quantity_purchased": 1,
+    "customer_id": 7,
+    "order_date": "11/10/2025"
+  },
+  {
+    "order_id": 36,
+    "product_id": 150,
+    "amount_paid": "472480.0",
+    "quantity_purchased": 16,
+    "customer_id": 85,
+    "order_date": "2024-11-27"
+  },
+  {
+    "order_id": 37,
+    "product_id": 23,
+    "amount_paid": "\u20a61,452,840",
+    "quantity_purchased": 4,
+    "customer_id": 14,
+    "order_date": "2024-02-03"
+  },
+  {
+    "order_id": 38,
+    "product_id": 90,
+    "amount_paid": " \u20a6280,400 ",
+    "quantity_purchased": 10,
+    "customer_id": 29,
+    "order_date": "2025-10-17"
+  },
+  {
+    "order_id": 39,
+    "product_id": 90,
+    "amount_paid": "\u20a684,120",
+    "quantity_purchased": 3,
+    "customer_id": 22,
+    "order_date": "19/08/2024"
+  },
+  {
+    "order_id": 40,
+    "product_id": 89,
+    "amount_paid": "\u20a62,351,040",
+    "quantity_purchased": 16,
+    "customer_id": 0,
+    "order_date": "17/08/2023"
+  },
+  {
+    "order_id": 41,
+    "product_id": 97,
+    "amount_paid": "1160900.0",
+    "quantity_purchased": 13,
+    "customer_id": 92,
+    "order_date": "2024-04-03"
+  },
+  {
+    "order_id": 42,
+    "product_id": 89,
+    "amount_paid": "\u20a6440,820",
+    "quantity_purchased": 3,
+    "customer_id": 93,
+    "order_date": "2024-05-21"
+  },
+  {
+    "order_id": 43,
+    "product_id": 4,
+    "amount_paid": "\u20a62,382,840",
+    "quantity_purchased": 9,
+    "customer_id": 82,
+    "order_date": "2024-09-05"
+  },
+  {
+    "order_id": 44,
+    "product_id": 32,
+    "amount_paid": "\u20a6406,290.00",
+    "quantity_purchased": 3,
+    "customer_id": 92,
+    "order_date": "2023-11-06"
+  },
+  {
+    "order_id": 45,
+    "product_id": 98,
+    "amount_paid": "NGN 633,680",
+    "quantity_purchased": 4,
+    "customer_id": 35,
+    "order_date": "2023-12-10"
+  },
+  {
+    "order_id": 46,
+    "product_id": 50,
+    "amount_paid": "\u20a62,644,000.00",
+    "quantity_purchased": 10,
+    "customer_id": 2,
+    "order_date": "2025-08-07"
+  },
+  {
+    "order_id": 47,
+    "product_id": 39,
+    "amount_paid": "\u20a63,370,240",
+    "quantity_purchased": 16,
+    "customer_id": 35,
+    "order_date": "2023-11-20"
+  },
+  {
+    "order_id": 48,
+    "product_id": 26,
+    "amount_paid": "\u20a6277,720",
+    "quantity_purchased": 4,
+    "customer_id": 59,
+    "order_date": "08 Jun 2023"
+  },
+  {
+    "order_id": 49,
+    "product_id": 77,
+    "amount_paid": "\u20a63,383,200",
+    "quantity_purchased": 10,
+    "customer_id": 18,
+    "order_date": "2025-05-13"
+  },
+  {
+    "order_id": 50,
+    "product_id": 32,
+    "amount_paid": "1760590.0",
+    "quantity_purchased": 13,
+    "customer_id": 42,
+    "order_date": "2025-08-14"
+  },
+  {
+    "order_id": 51,
+    "product_id": 60,
+    "amount_paid": "2994810.0",
+    "quantity_purchased": 7,
+    "customer_id": 91,
+    "order_date": "03/26/2024"
+  },
+  {
+    "order_id": 52,
+    "product_id": 20,
+    "amount_paid": "NGN 3,087,560",
+    "quantity_purchased": 14,
+    "customer_id": 92,
+    "order_date": "2023-08-16"
+  },
+  {
+    "order_id": 53,
+    "product_id": 47,
+    "amount_paid": "\u20a6142,830",
+    "quantity_purchased": 3,
+    "customer_id": 90,
+    "order_date": "11/02/2024"
+  },
+  {
+    "order_id": 54,
+    "product_id": 56,
+    "amount_paid": "\u20a6248,900",
+    "quantity_purchased": 1,
+    "customer_id": 14,
+    "order_date": "2024-01-15"
+  },
+  {
+    "order_id": 55,
+    "product_id": 65,
+    "amount_paid": "\u20a61,829,400",
+    "quantity_purchased": 12,
+    "customer_id": 20,
+    "order_date": "2024-10-08"
+  },
+  {
+    "order_id": 56,
+    "product_id": 27,
+    "amount_paid": "NGN 174,080",
+    "quantity_purchased": 16,
+    "customer_id": 67,
+    "order_date": "2023-09-09"
+  },
+  {
+    "order_id": 57,
+    "product_id": 87,
+    "amount_paid": "NGN 2,017,120",
+    "quantity_purchased": 8,
+    "customer_id": 22,
+    "order_date": "2024-12-18"
+  },
+  {
+    "order_id": 58,
+    "product_id": 4,
+    "amount_paid": "NGN 1,853,320",
+    "quantity_purchased": 7,
+    "customer_id": 95,
+    "order_date": "2024-08-14"
+  },
+  {
+    "order_id": 59,
+    "product_id": 24,
+    "amount_paid": "\u20a62,949,540.00",
+    "quantity_purchased": 11,
+    "customer_id": 47,
+    "order_date": "2023-09-26"
+  },
+  {
+    "order_id": 60,
+    "product_id": 59,
+    "amount_paid": " \u20a61,851,720 ",
+    "quantity_purchased": 6,
+    "customer_id": 80,
+    "order_date": "05/24/2025"
+  },
+  {
+    "order_id": 61,
+    "product_id": 19,
+    "amount_paid": "\u20a64,468,620",
+    "quantity_purchased": 13,
+    "customer_id": 66,
+    "order_date": "2023-10-21"
+  },
+  {
+    "order_id": 62,
+    "product_id": 37,
+    "amount_paid": "\u20a61,488,360.00",
+    "quantity_purchased": 6,
+    "customer_id": 18,
+    "order_date": "05/09/2024"
+  },
+  {
+    "order_id": 63,
+    "product_id": 53,
+    "amount_paid": "3492800.0",
+    "quantity_purchased": 16,
+    "customer_id": 88,
+    "order_date": "2025-10-09"
+  },
+  {
+    "order_id": 64,
+    "product_id": 100,
+    "amount_paid": "488640.0",
+    "quantity_purchased": 16,
+    "customer_id": 59,
+    "order_date": "2023-09-25"
+  },
+  {
+    "order_id": 65,
+    "product_id": 28,
+    "amount_paid": "\u20a6376,480",
+    "quantity_purchased": 4,
+    "customer_id": 55,
+    "order_date": "01/04/2025"
+  },
+  {
+    "order_id": 66,
+    "product_id": 100,
+    "amount_paid": "\u20a6213,780.00",
+    "quantity_purchased": 7,
+    "customer_id": 31,
+    "order_date": "24/01/2025"
+  },
+  {
+    "order_id": 67,
+    "product_id": 73,
+    "amount_paid": "NGN 1,911,690",
+    "quantity_purchased": 9,
+    "customer_id": 45,
+    "order_date": "2023-11-21"
+  },
+  {
+    "order_id": 68,
+    "product_id": 97,
+    "amount_paid": "NGN 178,600",
+    "quantity_purchased": 2,
+    "customer_id": 53,
+    "order_date": "05/11/2025"
+  },
+  {
+    "order_id": 69,
+    "product_id": 19,
+    "amount_paid": "NGN 3,093,660",
+    "quantity_purchased": 9,
+    "customer_id": 74,
+    "order_date": "2024-06-20"
+  },
+  {
+    "order_id": 70,
+    "product_id": 63,
+    "amount_paid": "\u20a6229,730.00",
+    "quantity_purchased": 1,
+    "customer_id": 42,
+    "order_date": "16/10/2025"
+  },
+  {
+    "order_id": 71,
+    "product_id": 55,
+    "amount_paid": "NGN 456,320",
+    "quantity_purchased": 16,
+    "customer_id": 28,
+    "order_date": "2025-09-27"
+  },
+  {
+    "order_id": 72,
+    "product_id": 81,
+    "amount_paid": "\u20a6135,600",
+    "quantity_purchased": 1,
+    "customer_id": 59,
+    "order_date": "2025-10-27"
+  },
+  {
+    "order_id": 73,
+    "product_id": 36,
+    "amount_paid": "NGN 3,867,360",
+    "quantity_purchased": 12,
+    "customer_id": 12,
+    "order_date": "16/06/2024"
+  },
+  {
+    "order_id": 74,
+    "product_id": 13,
+    "amount_paid": "\u20a61,142,540",
+    "quantity_purchased": 7,
+    "customer_id": 1,
+    "order_date": ""
+  },
+  {
+    "order_id": 75,
+    "product_id": 62,
+    "amount_paid": "236240.0",
+    "quantity_purchased": 8,
+    "customer_id": 10,
+    "order_date": "06/19/2025"
+  },
+  {
+    "order_id": 76,
+    "product_id": 87,
+    "amount_paid": "756420.0",
+    "quantity_purchased": 3,
+    "customer_id": 19,
+    "order_date": "10/06/2023"
+  },
+  {
+    "order_id": 77,
+    "product_id": 28,
+    "amount_paid": "\u20a6376,480",
+    "quantity_purchased": 4,
+    "customer_id": 12,
+    "order_date": "2023-10-06"
+  },
+  {
+    "order_id": 78,
+    "product_id": 77,
+    "amount_paid": "\u20a63,383,200.00",
+    "quantity_purchased": 10,
+    "customer_id": 93,
+    "order_date": "2025-05-09"
+  },
+  {
+    "order_id": 79,
+    "product_id": 31,
+    "amount_paid": "3025360.0",
+    "quantity_purchased": 13,
+    "customer_id": 64,
+    "order_date": ""
+  },
+  {
+    "order_id": 80,
+    "product_id": 54,
+    "amount_paid": null,
+    "quantity_purchased": 6,
+    "customer_id": 47,
+    "order_date": "2025-07-29"
+  },
+  {
+    "order_id": 81,
+    "product_id": 92,
+    "amount_paid": "\u20a64,086,740",
+    "quantity_purchased": 14,
+    "customer_id": 65,
+    "order_date": "2024-07-17"
+  },
+  {
+    "order_id": 82,
+    "product_id": 69,
+    "amount_paid": "NGN 3,328,390",
+    "quantity_purchased": 13,
+    "customer_id": 42,
+    "order_date": "07/22/2025"
+  },
+  {
+    "order_id": 83,
+    "product_id": 56,
+    "amount_paid": "\u20a63,733,500.00",
+    "quantity_purchased": 15,
+    "customer_id": 15,
+    "order_date": "2023-07-28"
+  },
+  {
+    "order_id": 84,
+    "product_id": 67,
+    "amount_paid": "\u20a61,395,810.00",
+    "quantity_purchased": 9,
+    "customer_id": 67,
+    "order_date": "09/10/2023"
+  },
+  {
+    "order_id": 85,
+    "product_id": 34,
+    "amount_paid": "\u20a6126,300",
+    "quantity_purchased": 3,
+    "customer_id": 92,
+    "order_date": "2024-11-06"
+  },
+  {
+    "order_id": 86,
+    "product_id": 30,
+    "amount_paid": "195760.0",
+    "quantity_purchased": 1,
+    "customer_id": 95,
+    "order_date": "2025-11-01"
+  },
+  {
+    "order_id": 87,
+    "product_id": 92,
+    "amount_paid": "NGN 4,086,740",
+    "quantity_purchased": 14,
+    "customer_id": 95,
+    "order_date": "2024-02-11"
+  },
+  {
+    "order_id": 88,
+    "product_id": 67,
+    "amount_paid": "\u20a62,016,170.00",
+    "quantity_purchased": 13,
+    "customer_id": 6,
+    "order_date": "09/20/2024"
+  },
+  {
+    "order_id": 89,
+    "product_id": 95,
+    "amount_paid": " \u20a6516,000 ",
+    "quantity_purchased": 8,
+    "customer_id": 80,
+    "order_date": "27 Jan 2025"
+  },
+  {
+    "order_id": 90,
+    "product_id": 4,
+    "amount_paid": null,
+    "quantity_purchased": 12,
+    "customer_id": 30,
+    "order_date": "05/12/2025"
+  },
+  {
+    "order_id": 91,
+    "product_id": 31,
+    "amount_paid": "3723520.0",
+    "quantity_purchased": 16,
+    "customer_id": 54,
+    "order_date": "25/10/2023"
+  },
+  {
+    "order_id": 92,
+    "product_id": 11,
+    "amount_paid": "1485960.0",
+    "quantity_purchased": 4,
+    "customer_id": 75,
+    "order_date": "03/15/2025"
+  },
+  {
+    "order_id": 93,
+    "product_id": 51,
+    "amount_paid": " \u20a62,093,850 ",
+    "quantity_purchased": 11,
+    "customer_id": 90,
+    "order_date": "2024-03-06"
+  },
+  {
+    "order_id": 94,
+    "product_id": 16,
+    "amount_paid": "\u20a6955,800",
+    "quantity_purchased": 12,
+    "customer_id": 69,
+    "order_date": "2023-12-31"
+  },
+  {
+    "order_id": 95,
+    "product_id": 28,
+    "amount_paid": "\u20a6470,600",
+    "quantity_purchased": 5,
+    "customer_id": 42,
+    "order_date": "11 Feb 2024"
+  },
+  {
+    "order_id": 96,
+    "product_id": 72,
+    "amount_paid": null,
+    "quantity_purchased": 8,
+    "customer_id": 96,
+    "order_date": "09/14/2023"
+  },
+  {
+    "order_id": 97,
+    "product_id": 81,
+    "amount_paid": "406800.0",
+    "quantity_purchased": 3,
+    "customer_id": 83,
+    "order_date": "22 Feb 2024"
+  },
+  {
+    "order_id": 98,
+    "product_id": 43,
+    "amount_paid": "NGN 607,920",
+    "quantity_purchased": 2,
+    "customer_id": 16,
+    "order_date": "2023-07-23"
+  },
+  {
+    "order_id": 99,
+    "product_id": 24,
+    "amount_paid": "NGN 2,413,260",
+    "quantity_purchased": 9,
+    "customer_id": 36,
+    "order_date": "2023-11-01"
+  },
+  {
+    "order_id": 100,
+    "product_id": 18,
+    "amount_paid": "NGN 1,315,510",
+    "quantity_purchased": 7,
+    "customer_id": 54,
+    "order_date": "2025-08-26"
+  },
+  {
+    "order_id": 51,
+    "product_id": 60,
+    "amount_paid": "2994810.0",
+    "quantity_purchased": 7,
+    "customer_id": 91,
+    "order_date": "03/26/2024"
+  }
+]

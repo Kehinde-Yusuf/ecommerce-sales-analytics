@@ -1,0 +1,101 @@
+product_id,product_name,category,cost_price,selling_price,sub_category
+1,Rodriguez Dumbbell Set,Sports,185520.0,,Fitness Equipment
+2,Doyle Body Lotion,Health & Beauty,179150.0,287690.0,Skincare
+3,Mcclain Women's Gown,Fashion,26000.0,36320.0,Women's Wear
+4,  davis deodorant  ,Health & Beauty,154820.0,264760.0,Fragrances
+5,Guzman Photo Frame,Home & Kitchen,41080.0,56730.0,Decor
+6,Gardner Bookshelf,Home & Kitchen,210790.0,348730.0,Furniture
+7,Blake Wallet,Fashion,221230.0,346860.0,Bags
+8,Henderson Women's Skirt,Fashion,23180.0,27370.0,Women's Wear
+9,Garcia-James Non-stick Pan,Home & Kitchen,,255720.0,Cookware
+10,Abbott-Munoz Shampoo,Health & Beauty,217690.0,,Haircare
+11,Blair Phone Case,Electronics,219740.0,371490.0,Mobile Phones
+12,Dudley Hair Oil,Health & Beauty,165110.0,291490.0,Haircare
+13,  arnold photo frame  ,Home & Kitchen,109810.0,,Decor
+14,Mcclure Ultrabook,Electronics,226400.0,386860.0,Laptops
+15,Williams Wallet,Fashion,48010.0,58240.0,Bags
+16,Galloway-Wyatt Camping Tent,Sports,62540.0,79650.0,Outdoor Gear
+17,James Smartphone,Electronics,242260.0,424470.0,Mobile Phones
+18,Flowers Photo Frame,Home & Kitchen,106040.0,187930.0,Decor
+19,Adams Hand Sanitizer,Health & Beauty,229890.0,343740.0,Wellness
+20,Reid Shampoo,Health & Beauty,155040.0,220540.0,Haircare
+21,GRAY-MAYO NON-STICK PAN,Home & Kitchen,114840.0,206600.0,Cookware
+22,Watts Electric Kettle,Home & Kitchen,109830.0,165080.0,Appliances
+23,Perez Sneakers,Fashion,222480.0,363210.0,Footwear
+24,MORALES-JONES NOVEL,Books & Stationery,158750.0,268140.0,Fiction
+25,Walter Bottled Water,Groceries,19270.0,33220.0,Beverages
+26,Wilkerson-Day Short Story Collection,Books & Stationery,52910.0,69430.0,Fiction
+27,Baker Women's Skirt,Fashion,6680.0,10880.0,Women's Wear
+28,Hoffman Energy Drink,Groceries,56000.0,94120.0,Beverages
+29,Ross USB Cable,Electronics,160550.0,226340.0,Accessories
+30,Snyder Muesli,Groceries,,195760.0,Cereals
+31,Burton Jersey Set,Sports,167820.0,232720.0,Team Sports
+32,Carlson-Cruz Hiking Backpack,Sports,100900.0,135430.0,Outdoor Gear
+33,Ferrell Short Story Collection,Books & Stationery,72080.0,103030.0,Fiction
+34,Frazier USB Cable,Electronics,23800.0,42100.0,Accessories
+35,Dyer Soundbar,Electronics,221590.0,337740.0,Audio
+36,RODRIGUEZ-GRAHAM BISCUITS,Groceries,201130.0,322280.0,Snacks
+37,Smith-Bowen Body Spray,Health & Beauty,153360.0,248060.0,Fragrances
+38,BAKER WATER BOTTLE,Sports,121410.0,158500.0,Outdoor Gear
+39,Harrell Backpack,Fashion,176750.0,210640.0,Bags
+40,Romero Action Camera,Electronics,119510.0,210670.0,Cameras
+41,Ryan Backpack,Fashion,68600.0,100540.0,Bags
+42,George Wireless Earbuds,Electronics,21440.0,30630.0,Audio
+43,Rodriguez Self-help Book,Books & Stationery,208810.0,303960.0,Non-Fiction
+44,Allen-Allen Men's Trousers,Fashion,60020.0,87500.0,Men's Wear
+45,Arroyo Laptop Bag,Electronics,27470.0,32050.0,Laptops
+46,Spence Men's Jacket,Fashion,212650.0,327540.0,Men's Wear
+47,Anderson Soundbar,Electronics,26830.0,47610.0,Audio
+48,Martin Bleach,Groceries,206520.0,317030.0,Household Supplies
+49,Hickman Cornflakes,Groceries,123830.0,168560.0,Cereals
+50,Harris Men's Trousers,Fashion,180160.0,264400.0,Men's Wear
+51,Brooks Air Fryer,Home & Kitchen,138590.0,190350.0,Appliances
+52,Walker Notebook,Books & Stationery,48290.0,78720.0,Office Supplies
+53,Chapman Sneakers,Fashion,177150.0,218300.0,Footwear
+54,Robinson Body Spray,Health & Beauty,119940.0,164490.0,Fragrances
+55,Jones Women's Gown,Fashion,21750.0,28520.0,Women's Wear
+56,Jones-Young Cornflakes,Groceries,152600.0,248900.0,Cereals
+57,Washington Basketball,Sports,73170.0,95150.0,Team Sports
+58,  johnston handbag  ,Fashion,136370.0,214230.0,Bags
+59,Lee-Davis Bluetooth Speaker,Electronics,175080.0,,Audio
+60,Gomez-Jenkins Jersey Set,Sports,237720.0,427830.0,Team Sports
+61,Brown Detergent,Groceries,117770.0,166690.0,Household Supplies
+62,Powell Facial Wash,Health & Beauty,22470.0,29530.0,Skincare
+63,Wright Bracelet,Fashion,155850.0,229730.0,Jewelry
+64,West Football,Sports,177590.0,240100.0,Team Sports
+65,Baxter Muesli,Groceries,104160.0,152450.0,Cereals
+66,Morton-Chase Photo Frame,Home & Kitchen,233590.0,345720.0,Decor
+67,Williams Air Fryer,Home & Kitchen,114110.0,155090.0,Appliances
+68,  novak self-help book  ,Books & Stationery,247110.0,411450.0,Non-Fiction
+69,RUSSELL VITAMIN SUPPLEMENT,Health & Beauty,180750.0,256030.0,Wellness
+70,  hancock photo frame  ,Home & Kitchen,156890.0,270920.0,Decor
+71,GRAY BOTTLED WATER,Groceries,111200.0,178040.0,Beverages
+72,House-Glover Hair Oil,Health & Beauty,44180.0,68310.0,Haircare
+73,Henderson-Bernard Bluetooth Speaker,Electronics,169560.0,212410.0,Audio
+74,Stanley Detergent,Groceries,59680.0,90820.0,Household Supplies
+75,Novak Resistance Bands,Sports,208290.0,361780.0,Fitness Equipment
+76,Daniels Comic Book,Books & Stationery,24740.0,38540.0,Fiction
+77,Woods Women's Blouse,Fashion,196730.0,338320.0,Women's Wear
+78,Yu Camping Tent,Sports,117350.0,140700.0,Outdoor Gear
+79,Jones Charger,Electronics,113970.0,,Accessories
+80,Hensley Deodorant,Health & Beauty,55730.0,66380.0,Fragrances
+81,Sanchez Gaming Laptop,Electronics,97470.0,135600.0,Laptops
+82,Sandoval-Cunningham Cutlery Set,Home & Kitchen,54710.0,78730.0,Cookware
+83,DONOVAN-HARRIS MEN'S SUIT,Fashion,23370.0,30100.0,Men's Wear
+84,Edwards Hair Oil,Health & Beauty,203360.0,264660.0,Haircare
+85,  evans feature phone  ,Electronics,4210.0,7000.0,Mobile Phones
+86,Smith Cornflakes,Groceries,113280.0,,Cereals
+87,FERRELL SELF-HELP BOOK,Books & Stationery,171680.0,252140.0,Non-Fiction
+88,Anderson-Bailey Body Spray,Health & Beauty,248660.0,371710.0,Fragrances
+89,Suarez Short Story Collection,Books & Stationery,113160.0,146940.0,Fiction
+90,Moore-Bass Camping Tent,Sports,23260.0,28040.0,Outdoor Gear
+91,Turner Bluetooth Speaker,Electronics,218470.0,384890.0,Audio
+92,Smith Camping Tent,Sports,211900.0,291910.0,Outdoor Gear
+93,GARCIA JERSEY SET,Sports,7050.0,12370.0,Team Sports
+94,Newton Wristwatch,Fashion,17860.0,29140.0,Jewelry
+95,Campbell-Clark Face Cream,Health & Beauty,39320.0,64500.0,Skincare
+96,Harris-Walters Bluetooth Adapter,Electronics,28170.0,44810.0,Accessories
+97,Wagner-King Short Story Collection,Books & Stationery,72720.0,89300.0,Fiction
+98,Davis Wireless Earbuds,Electronics,109340.0,158420.0,Audio
+99,Williams-Cook Bed Frame,Home & Kitchen,208090.0,363710.0,Furniture
+100,Walsh Sandals,Fashion,19560.0,30540.0,Footwear

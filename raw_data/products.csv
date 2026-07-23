@@ -1,0 +1,103 @@
+product_id,product_name,category,cost_price,selling_price
+1,Rodriguez Dumbbell Set,Sports > Fitness Equipment,"₦185,520.00",
+2,Doyle Body Lotion,"Health & Beauty,Skincare","₦179,150.00",287690
+3,Mcclain Women's Gown,Fashion | Women's Wear,"₦26,000.00","₦36,320.00"
+4,  davis deodorant  ,Health & Beauty > Fragrances,154820,"₦264,760"
+5,Guzman Photo Frame,Home & Kitchen | Decor,41080,"NGN 56,730"
+6,Gardner Bookshelf,Home & Kitchen > Furniture,"₦210,790",348730
+7,Blake Wallet,Fashion > Bags,"NGN 221,230",346860
+8,Henderson Women's Skirt,"Fashion, Women's Wear","NGN 23,180","NGN 27,370"
+9,Garcia-James Non-stick Pan,Home & Kitchen | Cookware,,255720
+10,Abbott-Munoz Shampoo,Health & Beauty > Haircare,"₦217,690",
+11,Blair Phone Case,Electronics | Mobile Phones,"NGN 219,740",371490
+12,Dudley Hair Oil,Health & Beauty > Haircare,"₦165,110",291490
+13,  arnold photo frame  ,"Home & Kitchen, Decor",109810,
+14,Mcclure Ultrabook,"Electronics, Laptops","₦226,400","₦386,860"
+15,Williams Wallet,"Fashion,Bags","₦48,010.00",58240
+16,Galloway-Wyatt Camping Tent,"Sports,Outdoor Gear","₦62,540","₦79,650.00"
+17,James Smartphone,Electronics > Mobile Phones,242260,"₦424,470"
+18,Flowers Photo Frame,"Home & Kitchen,Decor"," ₦106,040 ","NGN 187,930"
+19,Adams Hand Sanitizer,"Health & Beauty, Wellness",229890,"NGN 343,740"
+20,Reid Shampoo,Health & Beauty | Haircare,"NGN 155,040",220540
+21,GRAY-MAYO NON-STICK PAN,"Home & Kitchen, Cookware",114840,206600
+22,Watts Electric Kettle,Home & Kitchen | Appliances,"NGN 109,830",165080
+23,Perez Sneakers,Fashion > Footwear,"NGN 222,480",363210
+24,MORALES-JONES NOVEL,"Books & Stationery, Fiction","₦158,750.00","NGN 268,140"
+25,Walter Bottled Water,Groceries > Beverages,"NGN 19,270",33220
+26,Wilkerson-Day Short Story Collection,"Books & Stationery, Fiction","₦52,910.00"," ₦69,430 "
+27,Baker Women's Skirt,Fashion | Women's Wear,"NGN 6,680","₦10,880.00"
+28,Hoffman Energy Drink,"Groceries,Beverages","₦56,000.00",94120
+29,Ross USB Cable,Electronics | Accessories," ₦160,550 ",226340
+30,Snyder Muesli,"Groceries, Cereals",,"NGN 195,760"
+31,Burton Jersey Set,"Sports, Team Sports","NGN 167,820","NGN 232,720"
+32,Carlson-Cruz Hiking Backpack,Sports > Outdoor Gear,"₦100,900","₦135,430.00"
+33,Ferrell Short Story Collection,Books & Stationery | Fiction,72080,"₦103,030"
+34,Frazier USB Cable,Electronics > Accessories,23800,42100
+35,Dyer Soundbar,"Electronics,Audio","NGN 221,590",337740
+36,RODRIGUEZ-GRAHAM BISCUITS,"Groceries,Snacks",201130,"₦322,280.00"
+37,Smith-Bowen Body Spray,"Health & Beauty,Fragrances","₦153,360.00","₦248,060.00"
+38,BAKER WATER BOTTLE,"Sports,Outdoor Gear","₦121,410",158500
+39,Harrell Backpack,"Fashion,Bags",176750,"₦210,640.00"
+40,Romero Action Camera,Electronics | Cameras," ₦119,510 ","₦210,670"
+41,Ryan Backpack,"Fashion,Bags","₦68,600",100540
+42,George Wireless Earbuds,"Electronics,Audio","₦21,440","₦30,630"
+43,Rodriguez Self-help Book,"Books & Stationery, Non-Fiction","NGN 208,810","₦303,960.00"
+44,Allen-Allen Men's Trousers,"Fashion, Men's Wear","NGN 60,020","₦87,500.00"
+45,Arroyo Laptop Bag,Electronics | Laptops,"₦27,470"," ₦32,050 "
+46,Spence Men's Jacket,"Fashion, Men's Wear",212650,"₦327,540"
+47,Anderson Soundbar,"Electronics,Audio","₦26,830.00"," ₦47,610 "
+48,Martin Bleach,Groceries | Household Supplies,206520,"₦317,030.00"
+49,Hickman Cornflakes,,"₦123,830","₦168,560.00"
+50,Harris Men's Trousers,Fashion > Men's Wear,"₦180,160","₦264,400.00"
+51,Brooks Air Fryer,Home & Kitchen | Appliances,"₦138,590",190350
+52,Walker Notebook,Books & Stationery | Office Supplies,"₦48,290","₦78,720"
+53,Chapman Sneakers,"Fashion, Footwear","NGN 177,150",218300
+54,Robinson Body Spray,"Health & Beauty, Fragrances",119940,164490
+55,Jones Women's Gown,"Fashion,Women's Wear",21750,"₦28,520"
+56,Jones-Young Cornflakes,Groceries > Cereals,152600,248900
+57,Washington Basketball,Sports | Team Sports,"NGN 73,170"," ₦95,150 "
+58,  johnston handbag  ,Fashion | Bags,136370,"₦214,230"
+59,Lee-Davis Bluetooth Speaker,"Electronics,Audio","₦175,080.00",
+60,Gomez-Jenkins Jersey Set,Sports | Team Sports,237720,"₦427,830"
+61,Brown Detergent,Groceries | Household Supplies,"₦117,770","NGN 166,690"
+62,Powell Facial Wash,"Health & Beauty, Skincare","₦22,470"," ₦29,530 "
+63,Wright Bracelet,"Fashion,Jewelry","NGN 155,850"," ₦229,730 "
+64,West Football,"Sports, Team Sports"," ₦177,590 "," ₦240,100 "
+65,Baxter Muesli,"Groceries,Cereals","₦104,160"," ₦152,450 "
+66,Morton-Chase Photo Frame,"Home & Kitchen, Decor","NGN 233,590"," ₦345,720 "
+67,Williams Air Fryer,Home & Kitchen > Appliances,"₦114,110","₦155,090.00"
+68,  novak self-help book  ,Books & Stationery > Non-Fiction,"₦247,110","NGN 411,450"
+69,RUSSELL VITAMIN SUPPLEMENT,Health & Beauty > Wellness,"₦180,750.00",256030
+70,  hancock photo frame  ,"Home & Kitchen,Decor",156890,"NGN 270,920"
+71,GRAY BOTTLED WATER,"Groceries, Beverages","₦111,200.00","₦178,040"
+72,House-Glover Hair Oil,"Health & Beauty,Haircare"," ₦44,180 ",68310
+73,Henderson-Bernard Bluetooth Speaker,"Electronics,Audio","₦169,560"," ₦212,410 "
+74,Stanley Detergent,Groceries | Household Supplies," ₦59,680 ","NGN 90,820"
+75,Novak Resistance Bands,Sports > Fitness Equipment,"NGN 208,290","NGN 361,780"
+76,Daniels Comic Book,"Books & Stationery, Fiction","NGN 24,740","₦38,540.00"
+77,Woods Women's Blouse,Fashion | Women's Wear,"₦196,730.00",338320
+78,Yu Camping Tent,Sports > Outdoor Gear," ₦117,350 "," ₦140,700 "
+79,Jones Charger,Electronics | Accessories," ₦113,970 ",
+80,Hensley Deodorant,"Health & Beauty,Fragrances","₦55,730",66380
+81,Sanchez Gaming Laptop,"Electronics,Laptops","₦97,470.00","NGN 135,600"
+82,Sandoval-Cunningham Cutlery Set,Home & Kitchen > Cookware,"NGN 54,710","₦78,730"
+83,DONOVAN-HARRIS MEN'S SUIT,"Fashion, Men's Wear","₦23,370"," ₦30,100 "
+84,Edwards Hair Oil,Health & Beauty > Haircare,"₦203,360"," ₦264,660 "
+85,  evans feature phone  ,Electronics > Mobile Phones,4210,7000
+86,Smith Cornflakes,"Groceries, Cereals","NGN 113,280",
+87,FERRELL SELF-HELP BOOK,"Books & Stationery,Non-Fiction",171680,"NGN 252,140"
+88,Anderson-Bailey Body Spray,"Health & Beauty,Fragrances","₦248,660.00",371710
+89,Suarez Short Story Collection,Books & Stationery | Fiction,"₦113,160.00","₦146,940"
+90,Moore-Bass Camping Tent,"Sports,Outdoor Gear","₦23,260.00","NGN 28,040"
+91,Turner Bluetooth Speaker,"Electronics,Audio"," ₦218,470 ","NGN 384,890"
+92,Smith Camping Tent,Sports | Outdoor Gear,211900,"₦291,910"
+93,GARCIA JERSEY SET,Sports | Team Sports,"₦7,050","₦12,370.00"
+94,Newton Wristwatch,"Fashion, Jewelry","₦17,860","₦29,140"
+95,Campbell-Clark Face Cream,"Health & Beauty, Skincare","NGN 39,320","₦64,500"
+96,Harris-Walters Bluetooth Adapter,"Electronics,Accessories",28170," ₦44,810 "
+97,Wagner-King Short Story Collection,"Books & Stationery,Fiction","₦72,720","NGN 89,300"
+98,Davis Wireless Earbuds,,"NGN 109,340","NGN 158,420"
+99,Williams-Cook Bed Frame,"Home & Kitchen, Furniture","₦208,090","₦363,710"
+100,Walsh Sandals,Fashion > Footwear,"₦19,560.00","₦30,540.00"
+26,Wilkerson-Day Short Story Collection,"Books & Stationery, Fiction","₦52,910.00"," ₦69,430 "
+61,Brown Detergent,Groceries | Household Supplies,"₦117,770","NGN 166,690"
