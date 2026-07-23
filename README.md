@@ -153,7 +153,7 @@ Libraries used include:
 
 ### Top 5 Customers by Amount Spent
 
-![Top Customers](visuals/top_5_customers_amount.png)
+![Top Customers](visuals/top_5_customers_amount_spent.png)
 
 # Business Insights
 

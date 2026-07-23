@@ -112,7 +112,7 @@ plt.ylabel("Revenue")
 plt.xticks(rotation=45)
 
 plt.tight_layout()
-plt.savefig("monthly_revenue_trend.png", dpi=300, bbox_inches="tight")
+plt.savefig("visuals/monthly_revenue_trend.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 #Top 10 Most Purchased Products
@@ -134,7 +134,7 @@ plt.xlabel("Total Quantity Purchased")
 plt.ylabel("Product Name")
 
 plt.tight_layout()
-plt.savefig("top_10_products.png", dpi=300)
+plt.savefig("visuals/top_10_products.png", dpi=300)
 plt.show()
 
 #TOTAL 5 PRODUCT CATEGORIES BY REVENUE
@@ -156,7 +156,7 @@ plt.ylabel("Category")
 
 plt.tight_layout()
 
-plt.savefig("top_5_categories_revenue.png", dpi=300, bbox_inches="tight")
+plt.savefig("visuals/top_5_categories_revenue.png", dpi=300, bbox_inches="tight")
 
 plt.show()
 
@@ -181,7 +181,7 @@ plt.ylabel("Customer")
 plt.tight_layout()
 
 plt.savefig(
-    "top_5_customers_amount_spent.png",
+    "visuals/top_5_customers_amount_spent.png",
     dpi=300,
     bbox_inches="tight"
 )
@@ -206,6 +206,6 @@ plt.pie(
 
 plt.title("Revenue Share by Product Category")
 
-plt.savefig("category_revenue_pie.png", dpi=300, bbox_inches="tight")
+plt.savefig("visuals/category_revenue_pie.png", dpi=300, bbox_inches="tight")
 
 plt.show()
