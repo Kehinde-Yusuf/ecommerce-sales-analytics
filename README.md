@@ -206,7 +206,7 @@ Ecommerce-Sales-Analytics/
 │   ├── products.py
 │   ├── referential_integrity.py
     ├── load_to_postgres.py
-│   └── PDA.py
+│   └── PDA
 │
 ├── sql/
 │   └── business_queries.sql
